@@ -1,0 +1,17 @@
+D:\Marce\EVALUACIÓN TÉCNICA .NET\EvaluacionTecnica\C_Datos\bin\Debug\C_Datos.dll
+D:\Marce\EVALUACIÓN TÉCNICA .NET\EvaluacionTecnica\C_Datos\bin\Debug\C_Datos.pdb
+D:\Marce\EVALUACIÓN TÉCNICA .NET\EvaluacionTecnica\C_Datos\bin\Debug\C_Entidades.dll
+D:\Marce\EVALUACIÓN TÉCNICA .NET\EvaluacionTecnica\C_Datos\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Marce\EVALUACIÓN TÉCNICA .NET\EvaluacionTecnica\C_Datos\bin\Debug\System.Security.AccessControl.dll
+D:\Marce\EVALUACIÓN TÉCNICA .NET\EvaluacionTecnica\C_Datos\bin\Debug\System.Security.Permissions.dll
+D:\Marce\EVALUACIÓN TÉCNICA .NET\EvaluacionTecnica\C_Datos\bin\Debug\System.Security.Principal.Windows.dll
+D:\Marce\EVALUACIÓN TÉCNICA .NET\EvaluacionTecnica\C_Datos\bin\Debug\C_Entidades.pdb
+D:\Marce\EVALUACIÓN TÉCNICA .NET\EvaluacionTecnica\C_Datos\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Marce\EVALUACIÓN TÉCNICA .NET\EvaluacionTecnica\C_Datos\bin\Debug\System.Security.AccessControl.xml
+D:\Marce\EVALUACIÓN TÉCNICA .NET\EvaluacionTecnica\C_Datos\bin\Debug\System.Security.Permissions.xml
+D:\Marce\EVALUACIÓN TÉCNICA .NET\EvaluacionTecnica\C_Datos\bin\Debug\System.Security.Principal.Windows.xml
+D:\Marce\EVALUACIÓN TÉCNICA .NET\EvaluacionTecnica\C_Datos\obj\Debug\C_Datos.csprojAssemblyReference.cache
+D:\Marce\EVALUACIÓN TÉCNICA .NET\EvaluacionTecnica\C_Datos\obj\Debug\C_Datos.csproj.CoreCompileInputs.cache
+D:\Marce\EVALUACIÓN TÉCNICA .NET\EvaluacionTecnica\C_Datos\obj\Debug\C_Datos.csproj.CopyComplete
+D:\Marce\EVALUACIÓN TÉCNICA .NET\EvaluacionTecnica\C_Datos\obj\Debug\C_Datos.dll
+D:\Marce\EVALUACIÓN TÉCNICA .NET\EvaluacionTecnica\C_Datos\obj\Debug\C_Datos.pdb

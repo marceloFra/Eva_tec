@@ -1,0 +1,11 @@
+D:\Marce\EVALUACIÓN TÉCNICA .NET\EvaluacionTecnica\C_Negocios\bin\Debug\C_Negocios.dll
+D:\Marce\EVALUACIÓN TÉCNICA .NET\EvaluacionTecnica\C_Negocios\bin\Debug\C_Negocios.pdb
+D:\Marce\EVALUACIÓN TÉCNICA .NET\EvaluacionTecnica\C_Negocios\bin\Debug\C_Datos.dll
+D:\Marce\EVALUACIÓN TÉCNICA .NET\EvaluacionTecnica\C_Negocios\bin\Debug\C_Entidades.dll
+D:\Marce\EVALUACIÓN TÉCNICA .NET\EvaluacionTecnica\C_Negocios\bin\Debug\C_Datos.pdb
+D:\Marce\EVALUACIÓN TÉCNICA .NET\EvaluacionTecnica\C_Negocios\bin\Debug\C_Entidades.pdb
+D:\Marce\EVALUACIÓN TÉCNICA .NET\EvaluacionTecnica\C_Negocios\obj\Debug\C_Negocios.csprojAssemblyReference.cache
+D:\Marce\EVALUACIÓN TÉCNICA .NET\EvaluacionTecnica\C_Negocios\obj\Debug\C_Negocios.csproj.CoreCompileInputs.cache
+D:\Marce\EVALUACIÓN TÉCNICA .NET\EvaluacionTecnica\C_Negocios\obj\Debug\C_Negocios.csproj.CopyComplete
+D:\Marce\EVALUACIÓN TÉCNICA .NET\EvaluacionTecnica\C_Negocios\obj\Debug\C_Negocios.dll
+D:\Marce\EVALUACIÓN TÉCNICA .NET\EvaluacionTecnica\C_Negocios\obj\Debug\C_Negocios.pdb

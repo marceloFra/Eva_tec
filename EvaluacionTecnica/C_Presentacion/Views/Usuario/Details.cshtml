@@ -1,0 +1,100 @@
+﻿@model C_Entidades.Usuarios
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Usuarios</h4>
+    <hr />
+    <dl class="dl-horizontal">
+ 
+
+        <dt>
+            @Html.DisplayNameFor(model => model.nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.apellido_Paterno)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.apellido_Paterno)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.apellido_Materno)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.apellido_Materno)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.id_Documento)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.id_Documento)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.nro_documento)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nro_documento)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.usuario)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.usuario)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.contrasena)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.contrasena)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.id_Depa)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.id_Depa)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.id_Provincia)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.id_Provincia)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.id_Distrito)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.id_Distrito)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

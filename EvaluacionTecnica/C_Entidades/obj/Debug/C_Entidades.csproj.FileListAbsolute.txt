@@ -1,0 +1,6 @@
+D:\Marce\EVALUACIÓN TÉCNICA .NET\EvaluacionTecnica\C_Entidades\bin\Debug\C_Entidades.dll
+D:\Marce\EVALUACIÓN TÉCNICA .NET\EvaluacionTecnica\C_Entidades\bin\Debug\C_Entidades.pdb
+D:\Marce\EVALUACIÓN TÉCNICA .NET\EvaluacionTecnica\C_Entidades\obj\Debug\C_Entidades.csproj.CoreCompileInputs.cache
+D:\Marce\EVALUACIÓN TÉCNICA .NET\EvaluacionTecnica\C_Entidades\obj\Debug\C_Entidades.dll
+D:\Marce\EVALUACIÓN TÉCNICA .NET\EvaluacionTecnica\C_Entidades\obj\Debug\C_Entidades.pdb
+D:\Marce\EVALUACIÓN TÉCNICA .NET\EvaluacionTecnica\C_Entidades\obj\Debug\C_Entidades.csprojAssemblyReference.cache
